@@ -9,7 +9,7 @@ public class demopractices1
   {
 	  System.out.println("user 1 - first commit");
 	  
-	  System.out.println("hi akshay");
+	  System.out.println("hi akshay how are you");
   }
   
 }

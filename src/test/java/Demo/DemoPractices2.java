@@ -8,6 +8,7 @@ public class DemoPractices2 {
 	public void demo()
 	{
 		System.out.println("hey hi abhi");
+		System.out.println("hey this is my first commit and push");
 	}
 
 }

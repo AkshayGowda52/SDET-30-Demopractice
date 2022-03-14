@@ -2,7 +2,7 @@ package Demo;
 
 import org.testng.annotations.Test;
 
-public class demopractices1 
+public class demopracticesTest 
 {
   @Test
   public void demo()
@@ -10,6 +10,12 @@ public class demopractices1
 	  System.out.println("user 1 - first commit");
 	  
 	  System.out.println("hi abhi");
+  }
+  
+  @Test
+  public void demo1()
+  {
+	  System.out.println("user 1 - second commit");
   }
   
 }

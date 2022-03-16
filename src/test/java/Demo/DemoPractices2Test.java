@@ -15,6 +15,7 @@ public class DemoPractices2Test {
 	public void demo1()
 	{
 		System.out.println("its my new commit");
+		System.out.println("its my second commit");
 	}
 
 }

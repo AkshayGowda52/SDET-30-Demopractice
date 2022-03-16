@@ -20,4 +20,9 @@ public class DemoPractice3Test {
 	{
 		System.out.println("HELLO");
 	}
+	@Test
+	public void Demo5()
+	{
+		System.out.println("Welcome");
+	}
 }

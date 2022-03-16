@@ -13,7 +13,11 @@ public class DemoPractice3Test {
 		String USERNAME = System.getProperty("username");
 		System.out.println(USERNAME);
 		System.out.println("its me");
-		
-		
+	
+	}
+	@Test
+	public void demo4()
+	{
+		System.out.println("HELLO");
 	}
 }

@@ -12,7 +12,6 @@ public class DemoPractice3Test {
 		System.out.println(URL);
 		String USERNAME = System.getProperty("username");
 		System.out.println(USERNAME);
-		String PASSWORD = System.getProperty("password");
-		System.out.println(PASSWORD);
+		
 	}
 }

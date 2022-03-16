@@ -24,5 +24,6 @@ public class DemoPractice3Test {
 	public void Demo5()
 	{
 		System.out.println("Welcome");
+		System.out.println("tys");
 	}
 }
